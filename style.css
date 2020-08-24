@@ -1,0 +1,9 @@
+.material-icons{
+    margin-right: 15px;
+}
+
+span i:hover{
+    cursor: pointer;
+    background: aquamarine;
+}
+
